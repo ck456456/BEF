@@ -1,0 +1,23 @@
+[Warning] ADODB.pas(2480): Comparison always evaluates to False
+[Warning] ADODB.pas(2480): Comparing signed and unsigned types - widened both operands
+[Hint] U_KcPub.pas(1917): Value assigned to 'E1' never used
+[Warning] U_D.pas(684): Text after final 'END.' - ignored by compiler
+[Hint] CIM_Grid.pas(394): Value assigned to 'i' never used
+[Hint] U_V04.pas(239): Variable 'iBool' is declared but never used in 'TF_V04.ModifySave'
+[Hint] U_V04.pas(266): Variable 'iBool' is declared but never used in 'TF_V04.AllModSave'
+[Warning] U_V03.pas(379): Variable 'F1' might not have been initialized
+[Warning] U_V05.pas(828): Variable 'F1' might not have been initialized
+[Hint] U_C04.pas(116): Variable 'S1' is declared but never used in 'TF_C04.SG02UpData'
+[Warning] U_C04.pas(257): Return value of function 'TF_C04.GetRow' might be undefined
+[Hint] U_C04.pas(255): Variable 'i' is declared but never used in 'TF_C04.GetRow'
+[Hint] U_C04.pas(275): Value assigned to 'i1' never used
+[Warning] U_C04.pas(315): Variable 'CRow' might not have been initialized
+[Hint] U_C04.pas(266): Variable 'f1' is declared but never used in 'TF_C04.SG03Snd'
+[Hint] U_C04.pas(266): Variable 'f2' is declared but never used in 'TF_C04.SG03Snd'
+[Hint] U_C05.pas(147): Variable 'SQL' is declared but never used in 'TF_C05.SG99Snd'
+[Hint] U_C05.pas(350): Variable 'i' is declared but never used in 'TF_C05.GetRow'
+[Warning] U_C05.pas(504): Variable 'CRow' might not have been initialized
+[Hint] U_C05.pas(95): Private symbol 'OpenF19' declared but never used
+[Hint] U_C05.pas(113): Private symbol 'GetF501' declared but never used
+[Hint] U_C05.pas(114): Private symbol 'GetF502' declared but never used
+[Fatal Error] U_D0201.pas(7): Unit StatChar was compiled with a different version of TeEngine.TTeeMovingFunction
